@@ -30,7 +30,7 @@ function debugLog(msg) {
 }
 
 function log(msg) {
-  console.log(msg)
+  console.log(JSON.stringify(msg))
 }
 
 function logEntry(params) {
