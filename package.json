@@ -1,12 +1,12 @@
 {
-  "name": "cypress-log-to-output",
+  "name": "cypress-log-to-output-with-json-stringify",
   "version": "1.1.2",
-  "description": "Sends all browser console logs to stdout while running your Cypress tests.",
+  "description": "Sends all browser console logs to stdout while running your Cypress tests, with JSON.stringify.",
   "main": "src/log-to-output.js",
   "files": [
     "src"
   ],
-  "repository": "https://github.com/flotwig/cypress-log-to-output",
+  "repository": "https://github.com/bergnils/cypress-log-to-output",
   "author": "Zach Bloomquist <zach@cypress.io>",
   "license": "MIT",
   "dependencies": {
